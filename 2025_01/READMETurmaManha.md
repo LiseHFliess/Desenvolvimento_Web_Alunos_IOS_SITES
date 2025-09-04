@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-  <img src="../2025_01/LOGO2025.01/logoazd.png" width="100"/>
+  <td><img src="../2025_01/LOGO2025.01/logoazd.png" width="100"/></td>
     <td><strong>Grupo 1 - AZD</strong><br>
       <a href="https://dieckdaniels.github.io/Ag-cia.AZD/">Empresa AZD</a><br>
       <a href="https://dieckdaniels.github.io/dieck-daniels/">Cliente AZD</a>
@@ -61,6 +61,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
