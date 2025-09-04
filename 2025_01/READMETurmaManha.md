@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td><img src="./exemplo.com/logoazd.png" width="100"/></td>
+    <td><img src="../exemplo.com/logoazd.png" width="100"/></td>
     <td><strong>Grupo 1 - AZD</strong><br>
       <a href="https://dieckdaniels.github.io/Ag-cia.AZD/">Empresa AZD</a><br>
       <a href="https://dieckdaniels.github.io/dieck-daniels/">Cliente AZD</a>
@@ -61,5 +61,6 @@
     </td>
   </tr>
 </table>
+
 
 
