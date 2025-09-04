@@ -1,27 +1,61 @@
+<!-- 🔹 2025 - PRIMEIRO SEMESTRE - TURMA TARDE-->
 
-## 🔹 2025 - PRIMEIRO SEMESTRE - TURMA MANHÃ
+<table width="100%">
+  <tr>
+    <td width="120"><img src="LOGOS/decifra.png" width="100"/></td>
+    <td style="min-width:400px;"><strong>Grupo 1 - DECIFRA SOLUÇÕES</strong><br>
+      <a href="https://anads2.github.io/decifrasolucoes/tcc.html">Empresa DECIFRA SOLUÇÕES</a><br>
+      <a href="https://anads2.github.io/sestudio/sobre.html">Cliente DECIFRA SOLUÇÕES</a>
+    </td>
+  </tr>
+</table>
 
+<table width="100%">
+  <tr>
+    <td width="120"><img src="LOGOS/visaoweb.png" width="100"/></td>
+    <td style="min-width:400px;"><strong>Grupo 2 - VISÃO WEB</strong><br>
+      <a href="https://danielsantos011.github.io/visaoweb.site/">Empresa VISÃO WEB</a><br>
+      <a href="https://kauan9087.github.io/kauan/">Cliente VISÃO WEB</a>
+    </td>
+  </tr>
+</table>
 
-## 🔹 Grupo 1 - DECIFRA SOLUÇÕES
-- [Empresa DECIFRA SOLUÇÕES](https://anads2.github.io/decifrasolucoes/tcc.html)
-- [Cliente DECIFRA SOLUÇÕES](https://anads2.github.io/sestudio/sobre.html)
+<table width="100%">
+  <tr>
+    <td width="120"><img src="LOGOS/criae.png" width="100"/></td>
+    <td style="min-width:400px;"><strong>Grupo 3 - CRIAE</strong><br>
+      <a href="https://agenciacriae.github.io/agcria-/">Empresa CRIAE</a><br>
+      <a href="https://pet-chico.github.io/PetChico_/index.html">Cliente CRIAE</a>
+    </td>
+  </tr>
+</table>
 
-## 🔹 Grupo 2 - VISÃO WEB
-- [Empresa VISÃO WEB](https://danielsantos011.github.io/visaoweb.site/)
-- [Cliente VISÃO WEB](https://kauan9087.github.io/kauan/)
+<table width="100%">
+  <tr>
+    <td width="120"><img src="LOGOS/lumina.png" width="100"/></td>
+    <td style="min-width:400px;"><strong>Grupo 4 - LUMINA+</strong><br>
+      <a href="https://gitdoguxta.github.io/Tcc/">Empresa LUMINA+</a><br>
+      <a href="https://salao11.github.io/salao11/">Cliente LUMINA+</a>
+    </td>
+  </tr>
+</table>
 
-## 🔹 Grupo 3 - CRIAE
-- [Empresa CRIAE](https://agenciacriae.github.io/agcria-/)
-- [Cliente CRIAE](https://pet-chico.github.io/PetChico_/index.html)
+<table width="100%">
+  <tr>
+    <td width="120"><img src="LOGOS/raizdigital.png" width="100"/></td>
+    <td style="min-width:400px;"><strong>Grupo 5 - RAIZ DIGITAL</strong><br>
+      <a href="https://idkwhoistiffany.github.io/TCC/">Empresa RAIZ DIGITAL</a><br>
+      <a href="https://idkwhoistiffany.github.io/Evoliu-Shan/">Cliente RAIZ DIGITAL</a>
+    </td>
+  </tr>
+</table>
 
-## 🔹 Grupo 4 - LUMINA+
-- [Empresa LUMINA+](https://gitdoguxta.github.io/Tcc/)
-- [Cliente LUMINA+](https://salao11.github.io/salao11/)
-
-## 🔹 Grupo 5 - RAIZ DIGITAL
-- [Empresa RAIZ DIGITAL](https://idkwhoistiffany.github.io/TCC/)
-- [Cliente RAIZ DIGITAL](https://idkwhoistiffany.github.io/Evoliu-Shan/)
-
-## 🔹 Grupo 6 - VISÃO PERIFA
-- [Empresa VISÃO PERIFA](https://visaoperifa.site/)
-- [Cliente VISÃO PERIFA](https://studiopilateskellen.site/)
+<table width="100%">
+  <tr>
+    <td width="120"><img src="LOGOS/visaoperifa.png" width="100"/></td>
+    <td style="min-width:400px;"><strong>Grupo 6 - VISÃO PERIFA</strong><br>
+      <a href="https://visaoperifa.site/">Empresa VISÃO PERIFA</a><br>
+      <a href="https://studiopilateskellen.site/">Cliente VISÃO PERIFA</a>
+    </td>
+  </tr>
+</table>
