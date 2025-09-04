@@ -1,3 +1,8 @@
+
+# Bem-vindo 👋
+
+## 🔹 2025 - PRIMEIRO SEMESTRE - TURMA MANHÃ
+
 <!-- 🔹 2025 - PRIMEIRO SEMESTRE - TURMA TARDE-->
 
 <table width="100%">
@@ -59,3 +64,4 @@
     </td>
   </tr>
 </table>
+
